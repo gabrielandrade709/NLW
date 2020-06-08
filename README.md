@@ -38,7 +38,7 @@ $ npm start
 
 You can find me on the following places!
 
-- Instagram <a href="https://www.instagram.com/gabrielandrade709.ga/?hl=pt-br" target="_blank">`@gabrielandrade709.ga`</a>
+- Instagram <a href="https://www.instagram.com/gabrielandrade709.ga/?hl=pt-br" target="_blank">`@andrade.tsx`</a>
 - LinkedIn <a href="https://www.linkedin.com/in/gabriel-andrade-911918184/" target="_blank">`Gabriel Andrade`</a>
 
 ---
